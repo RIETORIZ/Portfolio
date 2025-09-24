@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="RA monogram">
+  <title>RA Monogram</title>
+  <rect width="128" height="128" fill="none"/>
+  <path fill="#2563EB" d="M28 100V28h34c16 0 26 9 26 22c0 10-6 17-15 20l20 30H73L56 70h-6v30H28Zm22-48v-14h14c8 0 13 4 13 9s-5 9-13 9H50Z"/>
+  <path fill="#2563EB" d="M98 100L74 28h14l26 72H98Zm-9-24h28l-5 12H84l5-12Z"/>
+</svg>
